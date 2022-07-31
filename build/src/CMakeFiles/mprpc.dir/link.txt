@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libmprpc.a  CMakeFiles/mprpc.dir/logger.cc.o CMakeFiles/mprpc.dir/mprpcApplication.cc.o CMakeFiles/mprpc.dir/mprpcChannel.cc.o CMakeFiles/mprpc.dir/mprpcConfig.cc.o CMakeFiles/mprpc.dir/mprpcController.cc.o CMakeFiles/mprpc.dir/rpcHeader.pb.cc.o CMakeFiles/mprpc.dir/rpcProvider.cc.o CMakeFiles/mprpc.dir/zookeeperUtil.cc.o
+/usr/bin/ranlib ../../lib/libmprpc.a
